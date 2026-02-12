@@ -1,4 +1,4 @@
-# osint-aio - Universal Data Analysis Tool
+# osint-aio 
 
 osint-aio is a comprehensive Open Source Intelligence (OSINT) analysis tool designed to perform recursive analysis across multiple data types. Built with Python and Streamlit, it provides a unified interface for investigating Indicators of Compromise (IOCs) including IP addresses, file hashes, domains, URLs, and email addresses.
 
